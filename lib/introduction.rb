@@ -1,5 +1,5 @@
 def greeting (name)
-  puts "Hello #{name}"
+  puts "Hi, my name is #{name}"
 end
 
 
